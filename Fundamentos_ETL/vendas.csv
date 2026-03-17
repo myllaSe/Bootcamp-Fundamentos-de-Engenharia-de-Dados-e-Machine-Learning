@@ -1,0 +1,11 @@
+id,data_venda,cliente,valor,desconto,categoria
+1,01/01/2023,Ana,1000,10,Eletronicos
+2,02/01/2023,Bruno,500,,Moveis
+3,03/01/2023,Carlos,2000,5,Eletronicos
+4,04/01/2023,Ana,,0,Roupas
+5,05/01/2023,Daniel,1500,15,Eletronicos
+6,06/01/2023,Bruno,700,5,
+7,07/01/2023,Eduardo,3000,20,Moveis
+8,08/01/2023,Ana,1200,,Roupas
+9,09/01/2023,Carlos,800,10,Eletronicos
+10,10/01/2023,Daniel,NaN,5,Moveis
